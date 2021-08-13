@@ -31,7 +31,14 @@ An api for making appointments at the book customers.
 * Run `yarn test`
 * Configure your keys in `./.env` for AWS to send email and storage user avatar
 
+# Work infos
+
+* You need register users to receive bookings
+* You need register users to make bookings sending id of professional booking
+* You need send bookings from customer user after has logged
+
 # Other infos
+
 * Node version 14.17.4 (LTS)
 * NPM version 6.14.14
 
