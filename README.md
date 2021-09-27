@@ -1,6 +1,11 @@
 # Appointiments
 An api for making appointments at the book customers.
 
+* Management slots of time
+* Set which days of the week professional are going to available and interval of time for each day
+* Each slot has a duration of 1 hour and contains two availability periods of 1 hour
+* Customer books a session blocking slots in order to not have conflicts with other customers trying to book session at the same time
+
 # Tools
 
 * NodeJS & Express
