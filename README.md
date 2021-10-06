@@ -8,14 +8,16 @@ An api for making appointments at the book customers.
 
 # Tools
 
-* NodeJS & Express
-* Typescript
-* Jest
+* [NodeJS](https://nodejs.org/)
+* [Express](https://expressjs.com/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Jest](https://jestjs.io/)
 * Redis (caching the main routes)
 * Mongo (storing notifications)
 * Postgres (relationships)
-* TypeORM
-* Prettier & Eslint
+* [TypeORM](https://typeorm.io/)
+* [Prettier](https://prettier.io/)
+* [Eslint](https://eslint.org/))
 * [Multer](https://github.com/expressjs/multer)
 * [Handlebars](https://github.com/handlebars-lang/handlebars.js)
 * [Tsyringe](https://github.com/microsoft/tsyringe)
