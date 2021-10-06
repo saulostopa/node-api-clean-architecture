@@ -8,22 +8,21 @@ An api for making appointments at the book customers.
 
 # Tools
 
-* [NodeJS](https://nodejs.org/)
-* [Express](https://expressjs.com/)
+* [NodeJS](https://nodejs.org/) & [Express](https://expressjs.com/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Jest](https://jestjs.io/)
-* Redis (caching the main routes)
-* Mongo (storing notifications)
-* Postgres (relationships)
+* [Redis](https://redis.io/) (caching the main routes)
+* [Mongo](https://www.mongodb.com/) (storing notifications)
+* [Postgres](https://www.postgresql.org/) (relationships)
 * [TypeORM](https://typeorm.io/)
-* [Prettier](https://prettier.io/)
-* [Eslint](https://eslint.org/))
+* [Prettier](https://prettier.io/) & [Eslint](https://eslint.org/)
 * [Multer](https://github.com/expressjs/multer)
 * [Handlebars](https://github.com/handlebars-lang/handlebars.js)
 * [Tsyringe](https://github.com/microsoft/tsyringe)
 * [Celebrate](https://github.com/arb/celebrate)
-* AWS SES & [Ethereal](https://ethereal.email)
-* AWS S3
+* [AWS SES](https://aws.amazon.com/ses/) & [Ethereal](https://ethereal.email)
+* [AWS S3](https://aws.amazon.com/s3/)
+* [Insomnia](https://insomnia.rest/)
 
 # Instructions
 
